@@ -1,0 +1,17 @@
+{
+    "name": "GP2Y10",
+    "version": "1.0.0",
+    "keywords": "GP2Y101051",
+    "description": "GP2Y10灰尘浓度检测传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/GP2Y10.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

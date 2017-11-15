@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+GP2Y10    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+Read  KEYWORD2
+CalculatedConcentration  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
